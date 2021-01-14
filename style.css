@@ -8,19 +8,29 @@ nav {
     justify-content: space-between;
     height: 35px;
     padding: 5px 10px;
-
     text-transform: uppercase;
-    font-size: 14px;
+    font-size: 20px;
     font-weight: 600;
     font-family: helvetica,arial,sans-serif;
-    
     border-bottom: 1px solid rgba(180, 180, 180, 0.411);
 }
 
 .add-flex {
-    display: flex;
     align-items: center;
     flex-shrink: 0;
+    display: flex; 
+    
+    
+    list-style-type: disc;
+    /*
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-end: 0px;*/
+  
+    
+
+    
+    
 }
 
 .nyt-logo {
@@ -46,7 +56,7 @@ nav {
 
     border: none;
     border-radius: 3px;
-    background-color: #567b95;
+    background-color: #958456;
 }
 figure {
     height: auto;
@@ -143,14 +153,11 @@ span b {
 }
 
 hr {
-    width: 93%;
-    height: 2px;
-    margin-top: 50px;
+    width: 50%;
+    margin-bottom: 30px;
+    margin-top: 40px;
+    color: rgba(14, 12, 12, 0.11);
 
-    color: rgba(173, 173, 173, 0.446);
-
-    border-left: none;
-    border-right: none;
 }
 
 .footer-nav {
