@@ -1,7 +1,6 @@
 body {
     margin: 0;
 }
-
 nav {
     display: flex;
     align-items: center;
@@ -43,7 +42,7 @@ nav {
     text-transform: uppercase;
     border: none;
     border-radius: 3px;
-    background-color: #958456;
+    background-color: #567995;
 }
 figure {
     height: auto;
