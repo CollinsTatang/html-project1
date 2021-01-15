@@ -19,18 +19,7 @@ nav {
     align-items: center;
     flex-shrink: 0;
     display: flex; 
-    
-    
     list-style-type: disc;
-    /*
-    margin-block-start: 1em;
-    margin-block-end: 1em;
-    margin-inline-end: 0px;*/
-  
-    
-
-    
-    
 }
 
 .nyt-logo {
@@ -49,11 +38,9 @@ nav {
 .btn {
     height: 34px;
     margin-right: 10px;
-
     color: white;
     font-weight: 600;
     text-transform: uppercase;
-
     border: none;
     border-radius: 3px;
     background-color: #958456;
@@ -69,7 +56,6 @@ h1 {
     margin-top: 60px;
     margin-right: auto;
     margin-left: auto;
-
     font-size: 2rem;
     font-family: georgia,'times new roman',times,serif;
     font-style: italic;
@@ -88,7 +74,6 @@ figcaption {
     width: 50%;
     max-width: 600px;
     margin: 0 auto;
-
     font-size: 1.3rem;
     line-height: 1.5;
 }
@@ -98,7 +83,6 @@ figcaption {
     align-items: center;
     justify-content: space-between;
     height: 60px;
-
     font-size: 14px;
 }
 
@@ -120,12 +104,10 @@ figcaption {
 .short-descriptions {
     position: absolute;
     width: 228px;
-
 }
 
 #tof-container {
     position: relative;
-
     font-size: 13px;
     font-family: sans-serif;
     font-weight: 300;
@@ -169,7 +151,6 @@ hr {
     display: flex;
     justify-content: space-between;
     align-items: flex-start;
-
     font-family: sans-serif;
 }
 
@@ -184,7 +165,6 @@ hr {
 footer ul > li {
     display: inline;
     margin-right: 10px;
-
 }
 
 footer ul {
@@ -196,10 +176,8 @@ footer {
     height: 60px;
     width: 93%;
     margin: 0 auto;
-
     font-size: 11px;
     text-transform: capitalize;
-
     border-top: 1px solid rgb(190, 190, 190)
 }
 
@@ -215,7 +193,6 @@ h4 {
 
 .sub-list-container {
     padding-left: 20px;
-
     border-left: 1px solid rgb(190, 190, 190);
 }
 
