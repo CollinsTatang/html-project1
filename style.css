@@ -3,7 +3,45 @@ body {
 }
 a {
     text-decoration: none;
+    
 }
+.side-bar {
+    display: flex;
+    margin-right: 0;
+    margin-left: auto;
+    width: 100px;
+    margin-top: 0;
+    margin-bottom: 0;
+    border: 0;
+    font-size: 100%;
+    text-size-adjust: 100%;
+    font: inherit;
+    vertical-align: baseline;
+
+}
+
+.side-title {
+   font-family: nyt-franklin, helvetica, arial, sans-serif;
+    font-weight: 700;
+    color: rgb(0, 0, 0);
+    border-bottom: 1px solid rgb(226, 226, 226);
+    margin-top: 0px;
+    margin-bottom: 15px;
+    padding-bottom: 12px;
+    font-size: 14px;
+    line-height: 14px;
+    letter-spacing: 0.02em;
+}
+h2 {
+    display: block;
+    font-size: 1.5em;
+    margin-block-start: 0.83em;
+    margin-block-end: 0.83em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+
 nav {
     display: flex;
     align-items: center;
@@ -15,6 +53,7 @@ nav {
     font-weight: 600;
     font-family: helvetica,arial,sans-serif;
     border-bottom: 1px solid rgba(180, 180, 180, 0.411);
+    color: black;
 }
 
 .add-flex {
