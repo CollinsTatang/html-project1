@@ -8,8 +8,7 @@ html {
     font-weight: 900;
   }
   
-  h1,
-  #diagramHeading > div {
+  h1,#diagramHeading > div {
     font-family: "Cheltenham", sans-serif;
   }
   
@@ -18,29 +17,13 @@ html {
     margin-bottom: 1rem;
   }
   
-  .iconNav,
-  a,
-  li,
-  .iconNav2 {
+  .iconNav,a,li,.iconNav2 {
     text-decoration: none;
   }
   
-  #topNavBar,
-  .imageContainerScientist,
-  .imageContainerItems,
-  .iconNav,
-  #signupFlexCont,
-  .btnContainer,
-  .iconNav2,
-  #warper_header,
-  .diagramContainer,
-  #newsletter_container,
-  .text-container,
-  #adv_container,
-  #adv_container2,
-  #news_container,
-  #copyright_cont,
-  .popular-links {
+#topNavBar,.imageContainerScientist,.imageContainerItems,.iconNav,#signupFlexCont,.btnContainer,
+  .iconNav2,#warper_header,.diagramContainer,#newsletter_container,.text-container,#adv_container,
+  #adv_container2,#news_container,#copyright_cont,.popular-links {
     display: flex;
     align-content: center;
   }
@@ -73,12 +56,6 @@ html {
     margin: 4px;
   }
   
-  #advPlaceholder {
-    margin-top: 0;
-    margin-bottom: 2rem;
-    width: auto;
-  }
-  
   main {
     padding: 0;
     margin-top: 4%;
@@ -98,9 +75,7 @@ html {
     margin: 1rem 20rem 1rem 23rem;
   }
   
-  article,
-  iframe,
-  .articleImageContainer {
+  article,iframe,.articleImageContainer {
     justify-content: space-around;
     text-align: left;
     align-content: center;
@@ -128,8 +103,7 @@ html {
     flex-basis: 100%;
   }
   
-  .captionText,
-  .captionText2 {
+  .captionText, .captionText2 {
     font-size: 0.9rem;
     margin-bottom: 10px;
   }
@@ -381,8 +355,7 @@ html {
     margin-bottom: 20px;
   }
   
-  #editors_PicksContainer2 > a > img,
-  #PicksContainer > a > img,
+  #editors_PicksContainer2 > a > img, #PicksContainer > a > img,
   #PicksContainer3 > a > img {
     height: 5rem;
     width: 5rem;
@@ -390,8 +363,7 @@ html {
     padding-right: 10px;
   }
   
-  #PicksContainer > a > span,
-  #editors_PicksContainer2 > a > span,
+  #PicksContainer > a > span,#editors_PicksContainer2 > a > span,
   #PicksContainer3 > a > span {
     font-family: 'PT Serif', Georgia, 'Times New Roman', Times, serif;
     font-size: 14px;
@@ -462,7 +434,7 @@ html {
     height: 8rem;
     width: 12rem;
   }
-  
+
   /* << footer  >> */
   #news_list {
     padding-left: 0;
