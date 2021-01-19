@@ -463,102 +463,7 @@ html {
     width: 12rem;
   }
   
-  /* <<< NEWSLETTER >>> */
-  
-  #newsletterHeading {
-    margin-bottom: 2rem;
-    font-size: 1rem;
-    font-weight: bold;
-    font-family: 'PT Serif', Georgia, 'Times New Roman', Times, serif;
-  }
-  
-  #newsletter_container {
-    justify-content: space-between;
-    width: 100%;
-    margin-bottom: 2rem;
-    order: 0;
-  }
-  
-  .newletterImgs {
-    height: 5rem;
-    width: 5rem;
-  }
-  
-  .newsletter_items {
-    flex-basis: 20%;
-    text-align: left;
-    align-content: center;
-    justify-content: start;
-    padding: 1rem;
-    border: 1px solid #eee;
-  }
-  
-  .newsletterLinks {
-    font-weight: bolder;
-    font-size: 0.8rem;
-    color: #567b95;
-  }
-  
-  .text-container {
-    font-size: 0.9rem;
-  }
-  
-  .newsletter_text {
-    word-wrap: break-word;
-    align-items: center;
-    font-family: 'PT Serif', Georgia, 'Times New Roman', Times, serif;
-  }
-  
-  /* ADVERTISEMENTS */
-  
-  #advHeading {
-    margin-bottom: 2rem;
-    font-size: 0.8rem;
-  }
-  
-  #adv_container {
-    justify-content: space-between;
-    width: 100%;
-    margin-bottom: 2rem;
-    order: 0;
-  }
-  
-  .advImgs {
-    height: 182px;
-    width: 265px;
-  }
-  
-  .adv_text {
-    word-wrap: break-word;
-    align-items: center;
-    font-family: 'PT Serif', Georgia, 'Times New Roman', Times, serif;
-  }
-  
-  .adv_items1 {
-    flex-basis: 28%;
-    order: 1;
-    text-align: left;
-    align-content: center;
-    justify-content: start;
-  }
-  
-  #adv_container2 {
-    justify-content: space-between;
-    width: 100%;
-    margin-bottom: 2rem;
-    order: 0;
-  }
-  
-  .adv_items2 {
-    order: 2;
-    flex-basis: 28%;
-    text-align: left;
-    align-content: center;
-    justify-content: start;
-  }
-  
   /* << footer  >> */
-  
   #news_list {
     padding-left: 0;
   }
@@ -673,12 +578,6 @@ html {
     flex-basis: 100%;
   }
   
-  .suggestedContainer,
-  footer {
-    width: 85%;
-  }
-  
   iframe {
     height: 25rem;
   }
-  
