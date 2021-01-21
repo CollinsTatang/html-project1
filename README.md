@@ -14,7 +14,7 @@ This project features HTML5 semantic tags, CSS float, CSS flexbox, and Grid.
 
 ## Live Demo
 
-[Live Demo Link]()
+[Live Demo Link](https://collinstatang.github.io/html-project1/)
 
 
 ### Prerequisites
